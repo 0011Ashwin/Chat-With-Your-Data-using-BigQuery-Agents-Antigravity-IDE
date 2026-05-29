@@ -373,9 +373,9 @@ This project is licensed under the Creative Commons Attribution 4.0 License. For
 
 ---
 
-## 👥 Author
+## 👥 Lab done by 
 
-**Author:** Abirami Sukumaran
+**Ashwin Mehta**
 
 **Last Updated:** May 25, 2026
 
