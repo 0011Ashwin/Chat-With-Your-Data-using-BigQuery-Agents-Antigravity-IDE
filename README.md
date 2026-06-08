@@ -3,6 +3,7 @@
 > **A comprehensive guide to building an enterprise-grade Agentic Data Cloud using Google Cloud technologies**
 
 Build a complete, modern analytics system that transforms raw data into actionable insights through intelligent agents and conversational interfaces.
+in last we use AI IDE
 
 ---
 
